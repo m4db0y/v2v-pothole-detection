@@ -56,13 +56,13 @@ The system operates in a multi-stage detection and evasion loop:
 ## Project Demonstration
 
 ### ML Pothole Detection
-[Watch Video](https://www.youtube.com/watch?v=AAuDOnvl6F8)
+[![ML Detection](V2V_Pothole_Alert_And_Assistance/Pictures/Pothole.png)](https://www.youtube.com/watch?v=AAuDOnvl6F8)
 
-### Unity Simulation & ADAS Intervention
-[Watch Video](https://www.youtube.com/watch?v=4p8_QqHc1oI)
+### Unity Simulation & ADAS
+[![Unity Simulation](V2V_Pothole_Alert_And_Assistance/Pictures/EgoCar_POV.png)](https://www.youtube.com/watch?v=4p8_QqHc1oI)
 
-### Hardware Steering Wheel Demo
-[Watch Video](https://www.youtube.com/watch?v=6yJmZe7CJ7w)
+### Hardware Demo
+[![Hardware Demo](V2V_Pothole_Alert_And_Assistance/Pictures/Hardware.png)](https://www.youtube.com/watch?v=6yJmZe7CJ7w)
 
 
 ## Getting Started (ML Detection Module)
