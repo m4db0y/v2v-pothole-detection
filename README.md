@@ -40,11 +40,11 @@ The system operates in a multi-stage detection and evasion loop:
 
 ## Project Output
 
-### Pothole Detection
-![Pothole](V2V_Pothole_Alert_And_Assistance/Pictures/pothole_on_road.png)
+### Pothole
+![Pothole](V2V_Pothole_Alert_And_Assistance/Pictures/Pothole.png)
 
-### Unity Simulation
-![Unity Simulation](V2V_Pothole_Alert_And_Assistance/Pictures/Unity.png)
+### Poster
+![Unity Simulation](V2V_Pothole_Alert_And_Assistance/Pictures/Poster.jpeg)
 
 ### Ego Car View
 ![Ego Car POV](V2V_Pothole_Alert_And_Assistance/Pictures/EgoCar_POV.png)
